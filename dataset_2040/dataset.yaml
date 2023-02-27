@@ -1,0 +1,6 @@
+train: /data/dataset_2040/train/
+val: /data/dataset_2040/val/
+test: /data/dataset_2040/test/
+
+nc: 3
+names: ['Computer mouse', 'Mug', 'Tennis ball']

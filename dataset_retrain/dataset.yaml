@@ -1,0 +1,6 @@
+train: /data/dataset_retrain/train/
+val: /data/dataset_retrain/val/
+test: /data/dataset_retrain/test/
+
+nc: 5
+names: ['Computer mouse', 'Mug', 'Tennis ball', 'Carbon box', 'Spray bottle']

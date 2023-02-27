@@ -1,0 +1,6 @@
+train: /data/dataset_1360/train/
+val: /data/dataset_1360/val/
+test: /data/dataset_1360/test/
+
+nc: 3
+names: ['Computer mouse', 'Mug', 'Tennis ball']
